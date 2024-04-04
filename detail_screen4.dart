@@ -54,7 +54,7 @@ class DetailPage4 extends StatelessWidget {
               const SizedBox(
                 height: 10,
               ),
-              const Text("Essentials Men's Short-Sleeve Crewneck T-Shirt",style: TextStyle(
+              const Text("FLORAL PRINT SHIRT",style: TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 22,
                 color: Colors.black,),),
@@ -73,7 +73,7 @@ class DetailPage4 extends StatelessWidget {
                   Text('-',style: TextStyle(
                     fontSize: 30,
                   ),),
-                  Text('2.3k+ Reviews ',style: TextStyle(
+                  Text('5.4k+ Reviews ',style: TextStyle(
                       color: Colors.grey,fontWeight: FontWeight.bold
                       ,
                       fontSize: 15),),
@@ -81,7 +81,7 @@ class DetailPage4 extends StatelessWidget {
                   Text('-',style: TextStyle(
                     fontSize: 30,
                   ),),
-                  Text('2.9k+ Sold',style: TextStyle(
+                  Text('5.4k+ Sold',style: TextStyle(
                       color: Colors.grey,fontWeight: FontWeight.bold
                       ,
                       fontSize: 15),),
@@ -123,7 +123,7 @@ class DetailPage4 extends StatelessWidget {
                         SizedBox(
                           width: 7,
                         ),
-                        Text('PUMA',style: TextStyle(
+                        Text('Jack & Jones',style: TextStyle(
                             fontWeight: FontWeight.bold,
                             fontSize: 16,
                             color: Colors.black
@@ -139,7 +139,7 @@ class DetailPage4 extends StatelessWidget {
                         SizedBox(
                           width: 7,
                         ),
-                        Text('Aprikot',style: TextStyle(
+                        Text('Mixed',style: TextStyle(
                             fontWeight: FontWeight.bold,
                             fontSize: 16,
                             color: Colors.black),),
@@ -160,7 +160,7 @@ class DetailPage4 extends StatelessWidget {
                         Column(
                           children: const [
                             Text('Total Price'),
-                            Text('\$18.00',style: TextStyle(
+                            Text('\$22.00',style: TextStyle(
                               fontSize: 22,
                               fontWeight: FontWeight.bold,
                               color: Color(0xff2A977D),
